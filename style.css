@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://res.cloudinary.com/db4xaxtxt/image/upload/v1569835797/light-trails-photography-city-12_xrrshh);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #00649A;
+}
+
+h2 {
+    font-size: 250%;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h2 span{
+   color: #26a318;
+}
+
+form {
+    display:flex;
+    justify-content: center;
+}
+
+form table {
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    float: center;
+    clear: left;
+    padding: 3rem;
+    min-height: 400px;
+}
+
+input {
+    height:40px;
+    border-radius: 5px;
+    height: 2rem;
+    color: white;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-right: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px;
+    opacity: 0.85;
+    font-size: 
+}
+
+#first-name {
+    width: 192px;
+}
+
+#last-name {
+    width: 192px;
+}
+
+#username {
+    width: 395px;
+}
+
+#email-address {
+    width: 395px;
+}
+
+#phone-number {
+    width: 328px;
+}
+
+#button {
+    background-color: red;
+    font-style: italic;
+    border: 0px;
+    width: 60px;
+    text-align: center;
+    font-size: 75%;
+    
+}
